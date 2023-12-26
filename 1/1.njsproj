@@ -12,7 +12,7 @@
     <ProjectGuid>005302b0-7fe7-45b7-9daf-9498b4aed3eb</ProjectGuid>
     <ProjectHome>
     </ProjectHome>
-    <StartupFile>app.ts</StartupFile>
+    <StartupFile>1.ts</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>
@@ -30,7 +30,7 @@
     <DebugSymbols>true</DebugSymbols>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="app.ts" />
+    <None Include="1.ts" />
     <Content Include="package.json" />
     <Content Include="README.md" />
     <Content Include="tsconfig.json" />
