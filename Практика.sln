@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "1", "Практика\1.njsproj", "{005302B0-7FE7-45B7-9DAF-9498B4AED3EB}"
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "1", "1\1.njsproj", "{005302B0-7FE7-45B7-9DAF-9498B4AED3EB}"
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "2", "2\2.njsproj", "{BD0AF556-B331-4909-B7D8-AF38C1003820}"
 EndProject

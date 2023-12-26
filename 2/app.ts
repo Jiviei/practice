@@ -1,8 +1,10 @@
 import * as readline from 'readline';
+
 let rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
+
 rl.question('-1 < x < 1: x = ', (x: any) => {
     x = parseFloat(x);
     if (x >= 1 || x <= -1) {

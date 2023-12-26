@@ -1,4 +1,3 @@
-
 const a: number = 1.625;
 const b: number = 1.625;
 const r: number = 0.875;
@@ -9,8 +8,6 @@ let rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
-
-
 
 rl.question('x1: ', (x) => {
     rl.question('y1: ', (y) => {
